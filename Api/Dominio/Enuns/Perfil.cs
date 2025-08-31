@@ -2,5 +2,6 @@
 
 public enum Perfil
 {
-
+    Adm,
+    Tutor
 }

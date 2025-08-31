@@ -1,0 +1,6 @@
+# .NET Core build folders
+bin/
+obj/
+
+# 
+appsettings.Development.json
